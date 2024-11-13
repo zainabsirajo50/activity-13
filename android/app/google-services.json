@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93409583405",
+    "project_id": "csc-4360-activity-13",
+    "storage_bucket": "csc-4360-activity-13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93409583405:android:ae0e140ea35288a05e33a4",
+        "android_client_info": {
+          "package_name": "com.example.activity_13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ncGzkL6e0-uyc6z0RBZ_PILRLpbLKr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
